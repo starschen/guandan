@@ -1,0 +1,94 @@
+{% extends 'admin/master.html' %}
+{% block head_css %}
+    {{ super() }}
+    <link rel="stylesheet" href="/static/css/jquery.dataTables.css">
+    <link rel="stylesheet" href="/static/css/dataTables.tableTools.css">
+{% endblock %}
+
+{% block body %}
+<div class="row">
+    <div class="col-md-2">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">排名方式</h3>
+            </div>
+            <div class="panel-body">
+                <form method="POST">
+                    {% for field in form %}
+                    <div class="form-group">
+                        <label for="{{ field.id }}">{{ field.label.text }}</label>
+                        {{field(class_="form-control")}}
+                    </div>
+                    {% endfor %}
+                </form>
+                <button type="submit" class="btn btn-success btn-block" onclick="rank()">查看排名</button>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-10">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">排名结果</h3>
+            </div>
+            <div class="panel-body">
+                <table id="example" class="display" cellspacing="0" width="100%">
+                    <thead>
+                        <tr>
+                            <th>排名</th>
+                            <th>队伍/单位</th>
+                            <th>总大分</th>
+                            <th>总小分</th>
+                            <th>总级差</th>
+                        </tr>
+                    </thead>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block tail_js %}
+{{ super() }}
+    <script src="/static/js/jquery.dataTables.js"></script>
+    <script src="/static/js/dataTables.tableTools.js"></script>
+    <script>
+    function createDataTable(url){
+            $('#example').dataTable({
+            "destroy": true,
+            "dom": 'T<"clear">lfrtip',
+            "tableTools": {
+            "sSwfPath": "/static/swf/copy_csv_xls_pdf.swf"
+            },
+            "ajax": {
+            "url": url,
+            "dataSrc": ""
+            },
+            "columns": [
+                { "data": "rank" },
+                { "data": "rank_type" },
+                { "data": "total_score" },
+                { "data": "total_sscore" },
+                { "data": "total_diff" },
+                ]
+            });
+        };
+
+    function rank()
+    {
+        var game = $('#game').val();
+        var rank_type = $('#rank_type').val();
+        var url;
+        if(rank_type == 'team')
+        {
+            url = "{{url_for('.team_rank_ajax')}}";
+        }
+        else
+        {
+            url = "{{url_for('.company_rank_ajax')}}";
+        }
+        url += "?game="+game;
+        createDataTable(url);
+    }
+    </script>
+{% endblock %}

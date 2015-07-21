@@ -1,0 +1,128 @@
+{"_id":{"$oid":"5558100beea2a606e8d791c5"},"company":"南京周周掼扑克牌俱乐部","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(1),"players":"徐建明/张发利","team_no":"01A"}
+{"_id":{"$oid":"5558100beea2a606e8d791c6"},"company":"徐州民政医院","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(2),"players":"杜长军/许亚峰","team_no":"02A"}
+{"_id":{"$oid":"5558100beea2a606e8d791c7"},"company":"徐州宣武集团","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(3),"players":"林一林/姚成光","team_no":"03A"}
+{"_id":{"$oid":"5558100beea2a606e8d791c8"},"company":"新城区城管执法大队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(4),"players":"黄晓一/王继刚","team_no":"04A"}
+{"_id":{"$oid":"5558100beea2a606e8d791c9"},"company":"徐州市粮食局","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(5),"players":"贾浙宁/谢秀杰","team_no":"05A"}
+{"_id":{"$oid":"5558100beea2a606e8d791ca"},"company":"徐州市第三十六中学","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(6),"players":"陈飞荣/高  明","team_no":"06A"}
+{"_id":{"$oid":"5558100beea2a606e8d791cb"},"company":"徐州市第一人民医院","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(7),"players":"谢  超/蔡军良","team_no":"07A"}
+{"_id":{"$oid":"5558100beea2a606e8d791cc"},"company":"扬州富愉掼蛋俱乐部","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(8),"players":"刘霞/毕海燕","team_no":"08A"}
+{"_id":{"$oid":"5558100beea2a606e8d791cd"},"company":"江苏中正房地产公司","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(9),"players":"杨  超/孟  强","team_no":"09A"}
+{"_id":{"$oid":"5558100beea2a606e8d791ce"},"company":"徐州市计生委","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(10),"players":"李建光/薛  杰","team_no":"10A"}
+{"_id":{"$oid":"5558100beea2a606e8d791cf"},"company":"徐州兴隆国际大酒店","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(11),"players":"张世龙/孟凡森","team_no":"11A"}
+{"_id":{"$oid":"5558100beea2a606e8d791d0"},"company":"红星女子掼蛋队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(12),"players":"蒋  侠(女)/潘月梅(女)","team_no":"12A"}
+{"_id":{"$oid":"5558100beea2a606e8d791d1"},"company":"徐州开元名都大酒店一队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(13),"players":"夏  铭/朱雪松","team_no":"13A"}
+{"_id":{"$oid":"5558100beea2a606e8d791d2"},"company":"江苏雅黛掼蛋俱乐部","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(14),"players":"燕  文/谢旭红(女)","team_no":"14A"}
+{"_id":{"$oid":"5558100beea2a606e8d791d3"},"company":"徐州市卫生计量检测所","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(15),"players":"张  勇/刘  易","team_no":"15A"}
+{"_id":{"$oid":"5558100beea2a606e8d791d4"},"company":"镇江豪友扑克俱乐部","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(16),"players":"江杰豪/张  震","team_no":"16A"}
+{"_id":{"$oid":"5558100beea2a606e8d791d5"},"company":"徐州市档案局","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(17),"players":"程昔刚/汪凤国","team_no":"17A"}
+{"_id":{"$oid":"5558100beea2a606e8d791d6"},"company":"徐州永宏双升俱乐部","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(18),"players":"霍仁礼/戴茂生","team_no":"18A"}
+{"_id":{"$oid":"5558100beea2a606e8d791d7"},"company":"江苏苏铝铝业公司一队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(19),"players":"忻培清/陈荣水","team_no":"19A"}
+{"_id":{"$oid":"5558100beea2a606e8d791d8"},"company":"徐州市卫生局一队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(20),"players":"鹿启全/吴  兵","team_no":"20A"}
+{"_id":{"$oid":"5558100beea2a606e8d791d9"},"company":"徐州市水务局","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(21),"players":"张  浩/贺恒利","team_no":"21A"}
+{"_id":{"$oid":"5558100beea2a606e8d791da"},"company":"徐州市城市管理局一队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(22),"players":"张银河/高吉才","team_no":"22A"}
+{"_id":{"$oid":"5558100beea2a606e8d791db"},"company":"徐矿集团有限公司","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(23),"players":"蒋宝淦/郭运良","team_no":"23A"}
+{"_id":{"$oid":"5558100beea2a606e8d791dc"},"company":"东海移动公司","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(24),"players":"单新民/仉  东","team_no":"24A"}
+{"_id":{"$oid":"5558100beea2a606e8d791dd"},"company":"徐州大地保险公司","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(25),"players":"毛  爽/段卫华","team_no":"25A"}
+{"_id":{"$oid":"5558100beea2a606e8d791de"},"company":"云龙公园","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(26),"players":"高  磊/张茂让","team_no":"26A"}
+{"_id":{"$oid":"5558100beea2a606e8d791df"},"company":"糖葫芦掼蛋俱乐部","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(27),"players":"张  虎/吴月锋","team_no":"27A"}
+{"_id":{"$oid":"5558100beea2a606e8d791e0"},"company":"市侨联","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(28),"players":"吴  彬/田同峰","team_no":"28A"}
+{"_id":{"$oid":"5558100beea2a606e8d791e1"},"company":"徐州质量技术监督局","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(29),"players":"刘  幸/王  珲","team_no":"29A"}
+{"_id":{"$oid":"5558100beea2a606e8d791e2"},"company":"卡特彼勒徐州公司一队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(30),"players":"陈兴群/张  震","team_no":"30A"}
+{"_id":{"$oid":"5558100beea2a606e8d791e3"},"company":"圣戈班(徐州)管道公司一队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(31),"players":"张爱民/申福勇","team_no":"31A"}
+{"_id":{"$oid":"5558100beea2a606e8d791e4"},"company":"泰州海洋起亚掼蛋俱乐部","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(32),"players":"耿晓军/高志兵","team_no":"32A"}
+{"_id":{"$oid":"5558100beea2a606e8d791e5"},"company":"徐州市第一中学","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(33),"players":"张帮程/程  猛","team_no":"33A"}
+{"_id":{"$oid":"5558100beea2a606e8d791e6"},"company":"格力电器","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(34),"players":"陈玉顶/陈桂德","team_no":"34A"}
+{"_id":{"$oid":"5558100beea2a606e8d791e7"},"company":"市侨办","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(35),"players":"郭振田/周建科","team_no":"35A"}
+{"_id":{"$oid":"5558100beea2a606e8d791e8"},"company":"江苏万通酿造有限公司","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(36),"players":"王本强/王心强","team_no":"36A"}
+{"_id":{"$oid":"5558100beea2a606e8d791e9"},"company":"徐州幼儿师范高等专科学校","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(37),"players":"李彦松/高  峰","team_no":"37A"}
+{"_id":{"$oid":"5558100beea2a606e8d791ea"},"company":"弘扬掼蛋文化俱乐部","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(38),"players":"史先停/王茂军","team_no":"38A"}
+{"_id":{"$oid":"5558100beea2a606e8d791eb"},"company":"江苏天勤机电设备公司","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(39),"players":"徐  君/陈光林","team_no":"39A"}
+{"_id":{"$oid":"5558100beea2a606e8d791ec"},"company":"淮安市楚淮掼蛋俱乐部","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(40),"players":"王立涛/陈雪生","team_no":"40A"}
+{"_id":{"$oid":"5558100beea2a606e8d791ed"},"company":"徐州工商行政管理局","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(41),"players":"朱卫国/彭  勇","team_no":"41A"}
+{"_id":{"$oid":"5558100beea2a606e8d791ee"},"company":"徐州建行","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(42),"players":"刘  伟/孙  钢","team_no":"42A"}
+{"_id":{"$oid":"5558100beea2a606e8d791ef"},"company":"徐州市城市管理局二队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(43),"players":"徐  品/石玉雷","team_no":"43A"}
+{"_id":{"$oid":"5558100beea2a606e8d791f0"},"company":"万国掼蛋俱乐部","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(44),"players":"徐  跃/苏  可","team_no":"44A"}
+{"_id":{"$oid":"5558100beea2a606e8d791f1"},"company":"徐州市彭祖园管理处","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(45),"players":"王继文/陈  明","team_no":"45A"}
+{"_id":{"$oid":"5558100beea2a606e8d791f2"},"company":"徐州电大","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(46),"players":"潘  侠/单志毅","team_no":"46A"}
+{"_id":{"$oid":"5558100beea2a606e8d791f3"},"company":"徐州医学院","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(47),"players":"刘兴刚/郑朝阳","team_no":"47A"}
+{"_id":{"$oid":"5558100beea2a606e8d791f4"},"company":"连云港掼蛋俱乐部","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(48),"players":"江舜超/刘  琇","team_no":"48A"}
+{"_id":{"$oid":"5558100beea2a606e8d791f5"},"company":"徐州市体育局","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(49),"players":"贺方全/杨友俊","team_no":"49A"}
+{"_id":{"$oid":"5558100beea2a606e8d791f6"},"company":"徐州开元名都大酒店二队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(50),"players":"侯金栋/叶德波","team_no":"50A"}
+{"_id":{"$oid":"5558100beea2a606e8d791f7"},"company":"沂沭泗水利管理局","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(51),"players":"杨  伟/范  宇","team_no":"51A"}
+{"_id":{"$oid":"5558100beea2a606e8d791f8"},"company":"徐州出入境检验检疫局","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(52),"players":"吴亚力/顾建华","team_no":"52A"}
+{"_id":{"$oid":"5558100beea2a606e8d791f9"},"company":"徐州市卫生局二队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(53),"players":"甘国永/朱卫东","team_no":"53A"}
+{"_id":{"$oid":"5558100beea2a606e8d791fa"},"company":"卡特彼勒徐州公司二队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(54),"players":"袁  猛/江  楠","team_no":"54A"}
+{"_id":{"$oid":"5558100beea2a606e8d791fb"},"company":"淮海蔬菜批发市场","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(55),"players":"贾  勇/宋  兵","team_no":"55A"}
+{"_id":{"$oid":"5558100beea2a606e8d791fc"},"company":"宿迁市棋牌协会","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(56),"players":"朱林军/寺胜利","team_no":"56A"}
+{"_id":{"$oid":"5558100beea2a606e8d791fd"},"company":"中石化管道储运有限公司","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(57),"players":"马  育/杨全友","team_no":"57A"}
+{"_id":{"$oid":"5558100beea2a606e8d791fe"},"company":"润速达货运公司","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(58),"players":"宁连敏/戴建荣","team_no":"58A"}
+{"_id":{"$oid":"5558100beea2a606e8d791ff"},"company":"徐州邮政局","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(59),"players":"王  东/张  立","team_no":"59A"}
+{"_id":{"$oid":"5558100beea2a606e8d79200"},"company":"江苏苏铝铝业公司二队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(60),"players":"于徐生/蔡宗洲","team_no":"60A"}
+{"_id":{"$oid":"5558100beea2a606e8d79201"},"company":"圣戈班(徐州)管道公司二队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(61),"players":"何家海/陈洪生","team_no":"61A"}
+{"_id":{"$oid":"5558100beea2a606e8d79202"},"company":"徐州市植物园","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(62),"players":"徐万泰/郑百顺","team_no":"62A"}
+{"_id":{"$oid":"5558100beea2a606e8d79203"},"company":"徐州农行","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(63),"players":"胡  勇/陈  勇","team_no":"63A"}
+{"_id":{"$oid":"5558100beea2a606e8d79204"},"company":"江苏今世缘酒业公司","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(64),"players":"杨晓东/张锡瑞","team_no":"64A"}
+{"_id":{"$oid":"5558100beea2a606e8d79205"},"company":"卡特彼勒徐州公司一队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(65),"players":"张  凯/宁  禹","team_no":"30B"}
+{"_id":{"$oid":"5558100beea2a606e8d79206"},"company":"南京周周掼扑克牌俱乐部","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(66),"players":"杜雨光/徐  苏","team_no":"01B"}
+{"_id":{"$oid":"5558100beea2a606e8d79207"},"company":"润速达货运公司","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(67),"players":"张  杰/韩  平","team_no":"58B"}
+{"_id":{"$oid":"5558100beea2a606e8d79208"},"company":"徐州永宏双升俱乐部","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(68),"players":"刘道宇/吴洪雨","team_no":"18B"}
+{"_id":{"$oid":"5558100beea2a606e8d79209"},"company":"徐州建行","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(69),"players":"王慎军/郭  杰","team_no":"42B"}
+{"_id":{"$oid":"5558100beea2a606e8d7920a"},"company":"徐矿集团有限公司","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(70),"players":"赵  波/李永刚","team_no":"23B"}
+{"_id":{"$oid":"5558100beea2a606e8d7920b"},"company":"淮海蔬菜批发市场","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(71),"players":"吴  宁/何如来","team_no":"55B"}
+{"_id":{"$oid":"5558100beea2a606e8d7920c"},"company":"泰州海洋起亚掼蛋俱乐部","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(72),"players":"王小强/田正祥","team_no":"32B"}
+{"_id":{"$oid":"5558100beea2a606e8d7920d"},"company":"中石化管道储运有限公司","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(73),"players":"孙成德/黄烈勇","team_no":"57B"}
+{"_id":{"$oid":"5558100beea2a606e8d7920e"},"company":"徐州市彭祖园管理处","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(74),"players":"余  瑛（女）/王  霞（女）","team_no":"45B"}
+{"_id":{"$oid":"5558100beea2a606e8d7920f"},"company":"徐州出入境检验检疫局","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(75),"players":"伊仰东/陈  焱","team_no":"52B"}
+{"_id":{"$oid":"5558100beea2a606e8d79210"},"company":"徐州幼儿师范高等专科学校","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(76),"players":"王  震/严加明","team_no":"37B"}
+{"_id":{"$oid":"5558100beea2a606e8d79211"},"company":"弘扬掼蛋文化俱乐部","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(77),"players":"顾再生/袁先林","team_no":"38B"}
+{"_id":{"$oid":"5558100beea2a606e8d79212"},"company":"徐州宣武集团","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(78),"players":"盛建东/饶瑞泉","team_no":"03B"}
+{"_id":{"$oid":"5558100beea2a606e8d79213"},"company":"江苏苏铝铝业公司一队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(79),"players":"马树申/汪永居","team_no":"19B"}
+{"_id":{"$oid":"5558100beea2a606e8d79214"},"company":"东海移动公司","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(80),"players":"高  源/朱建华","team_no":"24B"}
+{"_id":{"$oid":"5558100beea2a606e8d79215"},"company":"云龙公园","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(81),"players":"吕永斌/王元勋","team_no":"26B"}
+{"_id":{"$oid":"5558100beea2a606e8d79216"},"company":"徐州市卫生计量检测所","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(82),"players":"陈  腾/陆  强","team_no":"15B"}
+{"_id":{"$oid":"5558100beea2a606e8d79217"},"company":"市侨联","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(83),"players":"李秋絮(女)/邬文英(女)","team_no":"28B"}
+{"_id":{"$oid":"5558100beea2a606e8d79218"},"company":"徐州开元名都大酒店二队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(84),"players":"郑  永/赵维灿","team_no":"50B"}
+{"_id":{"$oid":"5558100beea2a606e8d79219"},"company":"徐州市卫生局一队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(85),"players":"史为栋/孙  萍(女)","team_no":"20B"}
+{"_id":{"$oid":"5558100beea2a606e8d7921a"},"company":"徐州市第一人民医院","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(86),"players":"李玉强/时晓东","team_no":"07B"}
+{"_id":{"$oid":"5558100beea2a606e8d7921b"},"company":"万国掼蛋俱乐部","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(87),"players":"郑  晨/郑庆国","team_no":"44B"}
+{"_id":{"$oid":"5558100beea2a606e8d7921c"},"company":"江苏万通酿造有限公司","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(88),"players":"何建军/刘建华","team_no":"36B"}
+{"_id":{"$oid":"5558100beea2a606e8d7921d"},"company":"镇江豪友扑克俱乐部","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(89),"players":"郦建纲/吴剑峰","team_no":"16B"}
+{"_id":{"$oid":"5558100beea2a606e8d7921e"},"company":"徐州农行","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(90),"players":"张翠虎/赵支援","team_no":"63B"}
+{"_id":{"$oid":"5558100beea2a606e8d7921f"},"company":"徐州市植物园","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(91),"players":"周海彬/刘  建","team_no":"62B"}
+{"_id":{"$oid":"5558100beea2a606e8d79220"},"company":"圣戈班(徐州)管道公司一队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(92),"players":"许  明/郝  钢","team_no":"31B"}
+{"_id":{"$oid":"5558100beea2a606e8d79221"},"company":"徐州民政医院","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(93),"players":"薛玉光/廖松峰","team_no":"02B"}
+{"_id":{"$oid":"5558100beea2a606e8d79222"},"company":"徐州市城市管理局一队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(94),"players":"郝献宏/张继民","team_no":"22B"}
+{"_id":{"$oid":"5558100beea2a606e8d79223"},"company":"格力电器","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(95),"players":"彭  权/徐  强","team_no":"34B"}
+{"_id":{"$oid":"5558100beea2a606e8d79224"},"company":"扬州富愉掼蛋俱乐部","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(96),"players":"王义红/金  晨","team_no":"08B"}
+{"_id":{"$oid":"5558100beea2a606e8d79225"},"company":"徐州市粮食局","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(97),"players":"孙  新/郭继升","team_no":"05B"}
+{"_id":{"$oid":"5558100beea2a606e8d79226"},"company":"徐州市水务局","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(98),"players":"王志刚/张茂生","team_no":"21B"}
+{"_id":{"$oid":"5558100beea2a606e8d79227"},"company":"江苏天勤机电设备公司","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(99),"players":"王雪峰/潘建峰","team_no":"39B"}
+{"_id":{"$oid":"5558100beea2a606e8d79228"},"company":"新城区城管执法大队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(100),"players":"许  浒/田苏骥","team_no":"04B"}
+{"_id":{"$oid":"5558100beea2a606e8d79229"},"company":"江苏雅黛掼蛋俱乐部","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(101),"players":"祝荣根/周柏林","team_no":"14B"}
+{"_id":{"$oid":"5558100beea2a606e8d7922a"},"company":"江苏今世缘酒业公司","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(102),"players":"褚福利/陈  亮","team_no":"64B"}
+{"_id":{"$oid":"5558100beea2a606e8d7922b"},"company":"徐州市计生委","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(103),"players":"周  峰/周英慧","team_no":"10B"}
+{"_id":{"$oid":"5558100beea2a606e8d7922c"},"company":"徐州工商行政管理局","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(104),"players":"陈金彪/张恒桥","team_no":"41B"}
+{"_id":{"$oid":"5558100beea2a606e8d7922d"},"company":"江苏中正房地产公司","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(105),"players":"张金武/丁会兵","team_no":"09B"}
+{"_id":{"$oid":"5558100beea2a606e8d7922e"},"company":"沂沭泗水利管理局","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(106),"players":"黄耀光/王世祯","team_no":"51B"}
+{"_id":{"$oid":"5558100beea2a606e8d7922f"},"company":"市侨办","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(107),"players":"葛  炜/陈茂林","team_no":"35B"}
+{"_id":{"$oid":"5558100beea2a606e8d79230"},"company":"淮安市楚淮掼蛋俱乐部","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(108),"players":"杨鑫铭/杨国龙","team_no":"40B"}
+{"_id":{"$oid":"5558100beea2a606e8d79231"},"company":"徐州电大","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(109),"players":"吴志丹/魏金森","team_no":"46B"}
+{"_id":{"$oid":"5558100beea2a606e8d79232"},"company":"徐州兴隆国际大酒店","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(110),"players":"欧  晶/伏长海","team_no":"11B"}
+{"_id":{"$oid":"5558100beea2a606e8d79233"},"company":"徐州大地保险公司","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(111),"players":"徐  庆/宋友亮","team_no":"25B"}
+{"_id":{"$oid":"5558100beea2a606e8d79234"},"company":"徐州开元名都大酒店一队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(112),"players":"陈  鹏/石时民","team_no":"13B"}
+{"_id":{"$oid":"5558100beea2a606e8d79235"},"company":"徐州市第一中学","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(113),"players":"赵  永/王德刚","team_no":"33B"}
+{"_id":{"$oid":"5558100beea2a606e8d79236"},"company":"徐州市卫生局二队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(114),"players":"蒋连峰/杜  雷","team_no":"53B"}
+{"_id":{"$oid":"5558100beea2a606e8d79237"},"company":"徐州市体育局","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(115),"players":"王  磊/戴礼军","team_no":"49B"}
+{"_id":{"$oid":"5558100beea2a606e8d79238"},"company":"连云港掼蛋俱乐部","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(116),"players":"刘  斌/王华江","team_no":"48B"}
+{"_id":{"$oid":"5558100beea2a606e8d79239"},"company":"徐州医学院","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(117),"players":"李汉春/张建忠","team_no":"47B"}
+{"_id":{"$oid":"5558100beea2a606e8d7923a"},"company":"卡特彼勒徐州公司二队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(118),"players":"卢  涛/徐培雷","team_no":"54B"}
+{"_id":{"$oid":"5558100beea2a606e8d7923b"},"company":"糖葫芦掼蛋俱乐部","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(119),"players":"高锦生/赵  岩","team_no":"27B"}
+{"_id":{"$oid":"5558100beea2a606e8d7923c"},"company":"江苏苏铝铝业公司二队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(120),"players":"李海松/王  磊","team_no":"60B"}
+{"_id":{"$oid":"5558100beea2a606e8d7923d"},"company":"徐州市城市管理局二队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(121),"players":"单古剑/张成明","team_no":"43B"}
+{"_id":{"$oid":"5558100beea2a606e8d7923e"},"company":"红星女子掼蛋队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(122),"players":"殷雪颖(女)/步云云(女)","team_no":"12B"}
+{"_id":{"$oid":"5558100beea2a606e8d7923f"},"company":"圣戈班(徐州)管道公司二队","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(123),"players":"王慎君/王银平","team_no":"61B"}
+{"_id":{"$oid":"5558100beea2a606e8d79240"},"company":"宿迁市棋牌协会","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(124),"players":"武传智/程晓东","team_no":"56B"}
+{"_id":{"$oid":"5558100beea2a606e8d79241"},"company":"徐州质量技术监督局","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(125),"players":"田  可/惠洪德","team_no":"29B"}
+{"_id":{"$oid":"5558100beea2a606e8d79242"},"company":"徐州市档案局","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(126),"players":"赵德恩/牛庆峰","team_no":"17B"}
+{"_id":{"$oid":"5558100beea2a606e8d79243"},"company":"徐州邮政局","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(127),"players":"王  刚/王厚诚","team_no":"59B"}
+{"_id":{"$oid":"5558100beea2a606e8d79244"},"company":"徐州市第三十六中学","game":{"$oid":"55580ffeeea2a606d590bc99"},"no":NumberInt(128),"players":"代苏建/孙奇军","team_no":"06B"}

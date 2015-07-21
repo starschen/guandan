@@ -1,0 +1,54 @@
+{% extends 'admin/master.html' %}
+
+{% block body %}
+<div class="row">
+    <div class="col-md-2">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">抽签方式</h3>
+            </div>
+            <div class="panel-body">
+                <form method="POST">
+                    {% for field in form %}
+                    <div class="form-group">
+                        <label for="{{ field.id }}">{{ field.label.text }}</label>
+                        {{field(class_="form-control")}}
+                    </div>
+                    {% endfor %}
+                    <button type="submit" class="btn btn-success btn-block">抽签</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-10">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">抽签结果</h3>
+            </div>
+            <div class="panel-body">
+                {%if round%}<h5>已赛轮次：{{round - 1}}</h5 >{%endif%}
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>轮次</th>
+                            <th>桌号</th>
+                            <th>红方</th>
+                            <th>蓝方</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {%for result in ballot_results%}
+                        <tr>
+                            <td>{{round}}</td>
+                            <td>{{result['desk_no']}}</td>
+                            <td>{{result['red']}}</td>
+                            <td>{{result['blue']}}</td>
+                        </tr>
+                        {%endfor%}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
